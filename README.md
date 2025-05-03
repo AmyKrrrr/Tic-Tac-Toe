@@ -38,11 +38,11 @@ A stylish and fully interactive Tic-Tac-Toe web game built using **HTML**, **CSS
 
 ## Project Structure
 
-├── ttt.html # Main HTML file
-├── ttt.css # Styling with custom design
-├── ttt.js # Game logic script
-├── circle.png # Custom-designed icon for Player 'O'
-├── cross.png # Custom-designed icon for Player 'X'
+- ttt.html # Main HTML file
+- ttt.css # Styling with custom design
+- ttt.js # Game logic script
+- circle.png # Custom-designed icon for Player 'O'
+- cross.png # Custom-designed icon for Player 'X'
 
 ---
 
