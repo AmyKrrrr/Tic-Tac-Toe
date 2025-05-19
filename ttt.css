@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -65,3 +66,72 @@ h1 {
   padding-top: 3vh;
   font-size: 4vh;
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #0d1321;
+  text-align: center;
+}
+
+h1 {
+  font-family: lexend;
+  color: #f0ebd8;
+  padding-top: 5vh;
+}
+
+.container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 3vmin;
+}
+
+.box {
+  background-color: #1d2d44;
+  color: #f0ebd8;
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 2vh;
+  border: none;
+  font-size: 8vmin;
+}
+
+.resetBtn {
+  color: #f0ebd8;
+  padding: 2vh;
+  font-size: 2.5vh;
+  font-family: lexend;
+  background-color: #1d2d44;
+  border-radius: 2vh;
+  border: none;
+}
+
+.icon {
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+  display: block;
+  margin: auto;
+}
+
+.winner {
+  font-family: lexend;
+  color: #f0ebd8;
+  padding-top: 3vh;
+  font-size: 4vh;
+}
+>>>>>>> eab0f7159c4c53c0d25be896eb147ef6a8ca9025
